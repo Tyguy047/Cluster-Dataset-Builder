@@ -9,7 +9,7 @@
     <a href="https://github.com/Tyguy047/Cluster-Dataset-Builder/issues"><img src="https://img.shields.io/badge/!-Report%20an%20Error-FF5252?labelColor=2d333b" alt="Report an Error Badge"></a>
     <a href="https://github.com/Tyguy047/Cluster-Dataset-Builder/blob/main/LICENSE"><img src="https://img.shields.io/badge/📚-License-blue?labelColor=2d333b" alt="License Badge"></a>
     <br>
-    <a href="https://design.tylercaselli.com"><img src="https://img.shields.io/badge/🚀%20My%20Website%20🚀-4BC9DB" alt="My Website Badge"></a>
+    <a href="https://www.tylercaselli.com"><img src="https://img.shields.io/badge/🚀%20My%20Website%20🚀-4BC9DB" alt="My Website Badge"></a>
 </div>
 
 ## Patch Notes - (0.1 Beta 5/15/2025):
